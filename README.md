@@ -28,3 +28,5 @@ and rely on the 2002 IO-tables from this point onwards.
 - data2002.rda: W[t] = W is based on the 2002 IO-tables.
 
 The object MPData.rda contains exogenous measure of the monetary policy shocks. 
+
+The R-files contain functions to replicate all results in the paper. Setting run = 1 estimates the proposed most flexible version of the model featuring all types of heterogeneities. Note that the code contains several additional features that were present in earlier versions of the paper.
