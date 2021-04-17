@@ -1,6 +1,10 @@
 Niko Hauzenberger and Michael Pfarrhofer, "Bayesian state-space modeling for analyzing heterogeneous network effects of US monetary policy", 
 Scandinavian Journal of Economics, forthcoming.
 
+Links:
+https://onlinelibrary.wiley.com/doi/abs/10.1111/sjoe.12436 (published version)
+https://arxiv.org/abs/1911.06206 (working paper)
+
 Michael Weber kindly provided us with the original industry-level dataset and the exogenous monetary policy measure used in 
 Ozdagli and Weber (2020), "Monetary policy through production networks: Evidence from the stock market," NBER Working Paper 23424(updated).
 
